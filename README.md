@@ -47,18 +47,20 @@ The project investigates the potential of **LLM-based models** to improve the fo
 ### 1. Clone the Repository  
 ```bash
 git clone https://github.com/madinasagatova/capstone_project.git
-cd capstone_project 
+cd capstone_project
+```
 
-### 2. Create & Activate a Virtual Environment (recommended)  
+### 2. Create & Activate a Virtual Environment (recommended)
 ```bash
 python3 -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
+```
 
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4. Launch Jupyter Notebook
 jupyter notebook
 
